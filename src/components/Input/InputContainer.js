@@ -18,16 +18,20 @@ const useStyle = makeStyles((theme) => ({
   },
 }));
 
-export default function InputContainer() {
+export default function InputContainer({listId}) {
   const classes = useStyle();
   const [open, setOpen] = useState(false);
   return (
     <div className={classes.root}>
       <Collapse in={open}>
-        <InputCard setOpen={setOpen}/>
+        <InputCard setOpen={setOpen} listId={listId}/>
       </Collapse>
       <Collapse in={!open}>
-        <Paper className={classes.addCard} elevation={0} onClick={ ()=> setOpen(!open)}>
+        <Paper
+          className={classes.addCard}
+          elevation={0}
+          onClick={() => setOpen(!open)}
+        >
           <Typography>+ Add a card</Typography>
         </Paper>
       </Collapse>
