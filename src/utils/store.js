@@ -26,7 +26,7 @@ const data = {
       cards: [],
     },
   },
-  listIds: ['list-1', 'list-2'],
+  listIds: ['list-1'],
 };
 
 export default data;
