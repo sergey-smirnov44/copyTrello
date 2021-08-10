@@ -2,7 +2,7 @@ import { Button, IconButton, Paper } from "@material-ui/core";
 import React, { useContext, useState } from "react";
 import { InputBase } from "@material-ui/core";
 import ClearIcon from "@material-ui/icons/Clear";
-import { fade, makeStyles } from "@material-ui/core/styles";
+import { alpha, makeStyles } from "@material-ui/core/styles";
 import storeAPI from "../../utils/storeAPI";
 
 const useStyle = makeStyles((theme) => ({
@@ -18,7 +18,7 @@ const useStyle = makeStyles((theme) => ({
     background: "#5AAc44",
     color: "#fff",
     "&:hover": {
-      background: fade("#5AAc44", 0.75),
+      background: alpha("#5AAc44", 0.75),
     },
   },
   confirm: {
