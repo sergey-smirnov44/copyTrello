@@ -1,0 +1,312 @@
+{
+      "availableValues":[
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"12442046-18f4-4114-940a-ede0d0c3da12",
+            "name":"Датчик контроля МЕТАНА (CH4) кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "value":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "name":"Кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"cc546761-bf4a-4611-9bd0-a43d58cc38a7",
+            "value":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "name":"УГПР"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"e60a8f99-9ab7-429b-ab49-5d9496c65180",
+            "value":"cc546761-bf4a-4611-9bd0-a43d58cc38a7",
+            "name":"Главный инженер"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"449842fc-ac84-48f7-a34b-15e50b404b38",
+            "value":"e60a8f99-9ab7-429b-ab49-5d9496c65180",
+            "name":"Начальник Подземного Рудника"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"27479ffc-6ec0-48ce-8197-1b5269eb8862",
+            "value":"449842fc-ac84-48f7-a34b-15e50b404b38",
+            "name":"Рудник Удачный"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":null,
+            "value":"27479ffc-6ec0-48ce-8197-1b5269eb8862",
+            "name":"УГОК"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"14306d58-5820-4ca4-9a65-73fb55836450",
+            "name":"Трубопровод отведения шахтных вод доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "value":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "name":"Доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"14ad9490-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "value":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "name":"Доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Горные выработки",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"245511e1-34f7-48e7-879b-8f7243c0de37",
+            "name":"Кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":false,
+            "type":"Горные выработки",
+            "parentId":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "value":"9262fdfb-3889-4272-b900-637726e78e65",
+            "name":"Кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Сооружения",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"2b6731e3-3a03-4735-a69d-af0c5e90147f",
+            "name":"Пожарно-оросительный трубопровод (ПОТ) кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"332babf0-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Самоходное горно-шахтное оборудование (СГШО) доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"39ca24ee-559a-4322-a17f-bfb1871ce0a7",
+            "name":"Замерная станция подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":false,
+            "type":null,
+            "parentId":"bad4c8b2-f491-4650-bfbc-fcb0a0e991d4",
+            "value":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "name":"Подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"46d368f0-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Самоходная буровая установка (DD-420, SOLO и т.д.) доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"476333dd-3104-4c7f-bcae-3271c759c30f",
+            "name":"Кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"524b8c40-a75f-494d-9f1a-0afcbb4cb812",
+            "name":"Вентиляционные сооружения (гибкая перемычка) подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"52a4727d-571a-4f40-91b3-a02646b0c95f",
+            "name":"Персонал подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"56cac820-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Датчик контроля МЕТАНА (CH4) доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"632eee70-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Датчики контроля ОКИСЛОВ АЗОТА (NO) доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"6fe29450-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Пожарно-оросительный трубопровод (ПОТ) доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"7d0e9e80-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Персонал доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"83a1b991-04e7-4afd-b6ee-4cc2c1dea6d9",
+            "name":"Дегазационный трубопровод кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"88ffbfbb-facb-421c-b2d0-69179fabaa6a",
+            "name":"Самоходное горно-шахтное оборудование (СГШО) кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Сооружения",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"8a0a8f3d-6023-4d8b-91df-4cb3ea26f3e1",
+            "name":"Дегазационный трубопровод кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f803c800-cdee-11eb-b4c0-f18c9109f58d",
+            "value":"8b754b90-cdef-11eb-b4c0-f18c9109f58d",
+            "name":"Взрывные работы доставочный штрек №6, подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Оборудование",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"90d0920d-3d50-4d9b-876a-0100a615b4f4",
+            "name":"Датчик контроля МЕТАНА кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Оборудование",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"930276ed-a81e-4371-8683-1d9086b23fc9",
+            "name":"Самоходное горно-шахтное оборудование (СГШО) кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Оборудование",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"9b78fdb5-b93a-4f52-a282-052a948589c4",
+            "name":"Телефонная связь кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"9fb75485-3696-48c4-a38e-ee748513ba0b",
+            "name":"Самоходное горно-шахтное оборудование (СГШО) подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"bad38cfc-643e-4358-acda-aef8579c8a39",
+            "name":"Подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":"Персонал",
+            "parentId":"9262fdfb-3889-4272-b900-637726e78e65",
+            "value":"bd790b06-920e-4c62-9e70-c9e99fdf4986",
+            "name":"Персонал кольцевой орт ВРТ (север) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"c2a632c6-9b8b-4ad1-8449-8db212d4008c",
+            "name":"Самоходное горно-шахтное оборудование (СГШО) доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"c8d93e96-85be-41ab-bcbd-2e9f6b80834f",
+            "name":"Телефонная связь кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"d9ac22c4-6d85-47b9-90c9-4e07345e4448",
+            "name":"Пожарно-оросительный трубопровод (ПОТ) доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"e0f7959a-a335-460b-ad97-1e61992eea83",
+            "name":"Датчик контроля МЕТАНА (CH4) доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"e76bd85b-50b9-421c-bf8e-2bbc79980f3a",
+            "name":"Доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"e9171403-a96a-498e-8c09-b48fe3d92e64",
+            "name":"Пожарно-оросительный трубопровод (ПОТ) кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"cbc52705-d0b9-4e04-a925-30e9a0ceb52f",
+            "value":"e9a95085-c41e-4d1f-88c9-7918e5b3d58b",
+            "name":"Персонал кольцевой орт ВРТ (юг) подэтажа -365м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"b40cd791-e7e1-4dd4-91ca-5f808ba3c7ae",
+            "value":"f297fcf4-df7e-4550-8cb3-e647a2c957cf",
+            "name":"Пожарно-оросительный трубопровод (ПОТ) подходная к вент. восстающему 2/5 подэтажа -398м"
+         },
+         {
+            "isAvailable":true,
+            "type":null,
+            "parentId":"f4e54eee-b3ce-498d-9655-4275595148c7",
+            "value":"f32eb8c3-e083-49c6-a121-75610d17cd24",
+            "name":"Персонал доставочный штрек №1 и кольцевой штрек ВРТ (север) подэтажа -465м"
+         }
+]
+}
